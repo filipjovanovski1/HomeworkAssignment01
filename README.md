@@ -96,3 +96,5 @@ Users can access predictive data on the selected stock's price movement, with ch
 # Summary
 
 This project will produce a comprehensive web application that supports stock data tracking, analysis, and forecasting for the Macedonian stock market. It will offer essential tools, data accuracy, and user-friendly visualizations, ultimately enhancing users’ ability to make informed investment decisions. The platform's broad range of features and tailored user experience will cater to diverse investor needs, from entry-level to expert, making it a valuable asset for the Macedonian stock market community.
+
+Created by: Filip Jovanovski 221501, Beriz Kurtanovic 221585
